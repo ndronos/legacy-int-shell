@@ -7,6 +7,14 @@
 
 01  Beginner C
     ---------------------------------------
+    A Book on C
+    C How to Program
+    C Programming - A Modern Approach
+    Head First C
+    Practical C Programming
+    Programming in C
+    C Primer Plus
+    The C Book
 
 
 02  Intermediate C
@@ -24,6 +32,23 @@
 ```
 
 ---
+
+
+01  Beginner C
+---
+
+```
+    A Book on C
+    C How to Program
+    C Programming - A Modern Approach
+    Head First C
+    Practical C Programming
+    Programming in C
+    C Primer Plus
+    The C Book
+```
+
+
 
 ```
     The C Programming Language          288p
