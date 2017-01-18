@@ -30,6 +30,16 @@
 
 03  Advanced C
     ---------------------------------------
+    A Numerical Library in C for Scientists and Engineers
+    Algorithms in C - Parts 1-4
+    Computational Geometry in C
+    Computer Graphics - C Version
+    Expert C Programming
+    Introduction to Computational Modeling Using C and Open-Source Tools
+    Mastering Algorithms with C
+    Numerical Recipes in C
+    Programming with POSIX Threads
+    X86 Assembly Language and C Fundamentals
 
 
 04  C Reference / General C
