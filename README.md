@@ -115,7 +115,7 @@
                                          1997
 
     -----------------------------------------
-    Steve Oualline
+    Steve Oualline                        456p
     1997
     3rd ed.
 
@@ -127,7 +127,7 @@
                                        Kochan
                                          2005
     -----------------------------------------
-    Stephen G. Kochan
+    Stephen G. Kochan                     564p
     2005
     3rd ed.
 
@@ -140,7 +140,7 @@
                                          2014
 
     -----------------------------------------
-    Stephen Prata
+    Stephen Prata                        1067p
     2014
     6th ed.
 
