@@ -149,7 +149,14 @@
 ```
     The C Book
     -----------------------------------------
+                      Banahan & Brady & Doran
+                                         1991
+
     -----------------------------------------
+                                          359p
+    Mike Banahan & Declan Brady & Mark Doran
+    1991
+
 ```
 
 
