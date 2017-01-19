@@ -164,8 +164,10 @@
 ---
 
 ```
-    The C Programming Language          288p
+    The C Programming Language
     ---------------------------------------
+                                        K&R
+                                       1988
 
     Preface                              ix
     Preface to the First Edition         xi
@@ -186,6 +188,8 @@ C   Summary of Changes                  259
     Index                               263
 
     ---------------------------------------
+                                        288p
+
     Brian W. Kerninghan & Dennis M. Ritchie
     1988, 1978
     005.13'3
