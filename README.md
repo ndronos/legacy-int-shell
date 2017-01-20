@@ -30,7 +30,15 @@
     C Programming for Absolute Beginner
     Engineering Problem Solving with C
     How to Think Like a Computer Scentist - C Version
-    
+    Illustrating C
+    Learn C on the MAC
+    Lear to to Program with C
+    Let Us C
+    Problem Solving and Program Design in C
+    Programming with C
+    Teach Yourself C in 21 Days
+    Teach Yourself C in 24 Hours
+
 
 02  Intermediate C
     ---------------------------------------
