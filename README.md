@@ -19,8 +19,18 @@
 
 01b Beginner C
     ---------------------------------------
-
-
+    Beginning C From Novice to Professional
+    Beginning Programming with C for Dummies
+    C An Advanced Introduction
+    C for Dummies
+    C for Engineers and Scientists
+    C in a Nutshell
+    C Programming Absolute Beginner's Guide
+    C Programming for Scentists and Engineers
+    C Programming for Absolute Beginner
+    Engineering Problem Solving with C
+    How to Think Like a Computer Scentist - C Version
+    
 
 02  Intermediate C
     ---------------------------------------
