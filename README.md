@@ -205,6 +205,14 @@
 ```
     Beginning C From Novice to Professional
     ---------------------------------------
+                                     Horton
+                                       2013
+
+    ---------------------------------------
+    Ivor Horton                         675p
+    2013
+    5th ed.
+
 ```
 
 ```
