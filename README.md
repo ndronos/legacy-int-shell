@@ -36,7 +36,7 @@
     Illustrating C
     Learn C on the MAC
     Lear to to Program with C
-    Learn C by Example
+    Learning C by Example
     Let Us C
     Problem Solving and Program Design in C
     Programming with C
@@ -276,7 +276,7 @@
 ```
 
 ```
-    Learn C by Example
+    Learning C by Example
     ---------------------------------------
 ```
 
