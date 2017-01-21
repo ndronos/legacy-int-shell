@@ -193,6 +193,13 @@
 ```
     An Introduction to the C Programming Language and Software Design
     ---------------------------------------
+                                     Bailey
+                                       2005
+
+    ---------------------------------------
+    Tim Bailey                          153p
+    2005
+
 ```
 
 ```
