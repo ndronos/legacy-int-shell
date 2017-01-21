@@ -354,6 +354,13 @@
 ```
     How to Think Like a Computer Scentist - C Version
     ---------------------------------------
+                                     Downey
+                                       2012
+
+    ---------------------------------------
+    Allen B Downey                      129p
+    2012
+
 ```
 
 ```
