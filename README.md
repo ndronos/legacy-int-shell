@@ -430,6 +430,14 @@
 ```
     Problem Solving and Program Design in C
     ---------------------------------------
+                            Hanly & Koffman
+                                       2016
+
+    ---------------------------------------
+    Jeri R Hanly & Elliot B Koffman     842p
+    2016
+    8th ed.
+
 ```
 
 ```
