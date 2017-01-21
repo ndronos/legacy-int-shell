@@ -191,6 +191,11 @@
 ---
 
 ```
+    An Introduction to the C Programming Language and Software Design
+    ---------------------------------------
+```
+
+```
     Beginning C From Novice to Professional
     ---------------------------------------
 ```
@@ -221,6 +226,11 @@
 ```
 
 ```
+    C Programming Wikibooks
+    ---------------------------------------
+```
+
+```
     C Programming Absolute Beginner's Guide
     ---------------------------------------
 ```
@@ -232,6 +242,11 @@
 
 ```
     C Programming for Absolute Beginner
+    ---------------------------------------
+```
+
+```
+    Computer Fundamentals and Programming in C
     ---------------------------------------
 ```
 
@@ -257,6 +272,11 @@
 
 ```
     Lear to to Program with C
+    ---------------------------------------
+```
+
+```
+    Learn C by Example
     ---------------------------------------
 ```
 
