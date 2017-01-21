@@ -291,6 +291,14 @@
 ```
     C Programming Absolute Beginner's Guide
     ---------------------------------------
+                             Perry & Miller
+                                       2014
+
+    ---------------------------------------
+    Greg Perry & Dean Miller            617p
+    2014
+    3rd ed.
+
 ```
 
 ```
