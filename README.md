@@ -19,29 +19,29 @@
 
 01b Beginner C
     ---------------------------------------
+    An Introduction to the C Programming Language and Software Design
     Beginning C From Novice to Professional
     Beginning Programming with C for Dummies
     C An Advanced Introduction
     C for Dummies
     C for Engineers and Scientists
     C in a Nutshell
+    C Programming Wikibooks
     C Programming Absolute Beginner's Guide
     C Programming for Scentists and Engineers
     C Programming for Absolute Beginner
+    Computer Fundamentals and Programming in C
     Engineering Problem Solving with C
     How to Think Like a Computer Scentist - C Version
     Illustrating C
     Learn C on the MAC
     Lear to to Program with C
+    Learn C by Example
     Let Us C
     Problem Solving and Program Design in C
     Programming with C
     Teach Yourself C in 21 Days
     Teach Yourself C in 24 Hours
-    Learn C by Example
-    Computer Fundamentals and Programming in C
-    An Introduction to the C Programming Language and Software Design
-    C Programming Wikibooks
 
 
 02  Intermediate C
