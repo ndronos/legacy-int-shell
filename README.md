@@ -328,6 +328,14 @@
 ```
     Computer Fundamentals and Programming in C
     ---------------------------------------
+                                 Dey & Gosh
+                                       2013
+
+    ---------------------------------------
+    Pradip Dey & Manas Gosh             514p
+    2013
+    2nd ed.
+
 ```
 
 ```
