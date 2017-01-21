@@ -38,6 +38,10 @@
     Programming with C
     Teach Yourself C in 21 Days
     Teach Yourself C in 24 Hours
+    Learn C by Example
+    Computer Fundamentals and Programming in C
+    An Introduction to the C Programming Language and Software Design
+    C Programming Wikibooks
 
 
 02  Intermediate C
