@@ -456,6 +456,14 @@
 ```
     Teach Yourself C in 21 Days
     ---------------------------------------
+                             Jones & Aitken
+                                       2003
+
+    ---------------------------------------
+    Bradley L Jones & Peter Aitken      957p
+    2003
+    6th ed.
+
 ```
 
 ```
