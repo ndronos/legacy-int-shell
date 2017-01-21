@@ -35,7 +35,7 @@
     How to Think Like a Computer Scentist - C Version
     Illustrating C
     Learn C on the MAC
-    Lear to to Program with C
+    Learn to Program with C
     Learning C by Example
     Let Us C
     Problem Solving and Program Design in C
@@ -390,7 +390,7 @@
 ```
 
 ```
-    Lear to to Program with C
+    Learn to Program with C
     ---------------------------------------
 ```
 
