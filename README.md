@@ -182,9 +182,104 @@
 
 ```
 
+
 01b Beginner C
 ---
 
+```
+    Beginning C From Novice to Professional
+    ---------------------------------------
+```
+
+```
+    Beginning Programming with C for Dummies
+    ---------------------------------------
+```
+
+```
+    C An Advanced Introduction
+    ---------------------------------------
+```
+
+```
+    C for Dummies
+    ---------------------------------------
+```
+
+```
+    C for Engineers and Scientists
+    ---------------------------------------
+```
+
+```
+    C in a Nutshell
+    ---------------------------------------
+```
+
+```
+    C Programming Absolute Beginner's Guide
+    ---------------------------------------
+```
+
+```
+    C Programming for Scentists and Engineers
+    ---------------------------------------
+```
+
+```
+    C Programming for Absolute Beginner
+    ---------------------------------------
+```
+
+```
+    Engineering Problem Solving with C
+    ---------------------------------------
+```
+
+```
+    How to Think Like a Computer Scentist - C Version
+    ---------------------------------------
+```
+
+```
+    Illustrating C
+    ---------------------------------------
+```
+
+```
+    Learn C on the MAC
+    ---------------------------------------
+```
+
+```
+    Lear to to Program with C
+    ---------------------------------------
+```
+
+```
+    Let Us C
+    ---------------------------------------
+```
+
+```
+    Problem Solving and Program Design in C
+    ---------------------------------------
+```
+
+```
+    Programming with C
+    ---------------------------------------
+```
+
+```
+    Teach Yourself C in 21 Days
+    ---------------------------------------
+```
+
+```
+    Teach Yourself C in 24 Hours
+    ---------------------------------------
+```
 
 
 04  C Reference / General C
