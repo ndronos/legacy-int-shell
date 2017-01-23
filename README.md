@@ -535,6 +535,13 @@
 ```
     Object Oriented Programming with ANSI-C
     ---------------------------------------
+                                  Schreiner
+                                       1994
+
+    ---------------------------------------
+    Axel-Tobias Schreiner               221p
+    1994
+
 ```
 
 ```
