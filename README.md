@@ -652,3 +652,17 @@ C   Summary of Changes                  259
 
 ```
 
+```
+    Why Should I Code in C
+    ---------------------------------------
+                                  Griffiths
+                                       2012
+
+    ---------------------------------------
+    David Griffiths                   17:51
+    O'Reilly
+    2012-06-26
+    https://youtube.com/watch?v=hHySVnJzADM
+
+```
+
