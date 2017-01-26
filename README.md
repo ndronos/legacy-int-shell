@@ -693,11 +693,11 @@ C   Summary of Changes                  259
 13  The File System                     151
 14  Miscellaneous Routines              173
 
-A   Calling FORTRAN From C              183
+A   Calling FORTRAN From C                          183
 B   Using Berkeley UNIX Pseudo Terminals            191
-C   Reading Kernel Data Structures      197
+C   Reading Kernel Data Structures                  197
 D   Berkeley UNIX Directory Compatibility Routines  201
-E   Interval Timer Version of nap()     205
+E   Interval Timer Version of nap()                 205
 
     Bibliography                        207
     Colophon                            209
