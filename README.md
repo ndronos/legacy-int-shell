@@ -670,4 +670,15 @@ C   Summary of Changes                  259
 06  C on Unix
 ---
 
+```
+    Using C on the UNIX System
+    ---------------------------------------
+                                      Curry
+                                       2014
 
+    ---------------------------------------
+    David A. Curry                      230p
+    2014
+    2nd ed.
+
+```
