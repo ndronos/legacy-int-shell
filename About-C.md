@@ -29,3 +29,11 @@ C is not a big language, and it is not well served by a big book.
 
 ```
 
+```
+C wears well as one's experience with it grows.
+
+(K&R, 1988)
+
+```
+
+
