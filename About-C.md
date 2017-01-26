@@ -18,4 +18,14 @@ No matter what programming language you currently favor, you'll quickly see that
 
 ```
 
+```
+The computer world has undergone a revolution since the publication of *The C Programming Language* in 1978.
+During this time, C has changed too, although only modestly, and it has spread far beyound its origins
+as the language of the UNIX operating system.
+
+C is not a big language, and it is not well served by a big book.
+
+(K&R, 1988)
+
+```
 
