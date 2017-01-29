@@ -90,4 +90,40 @@ entire language.
 
 ```
 
+```
+Because the data types and control structures provided by C
+are supported directly by most computers, the run time library required
+to implement self-contained programs is tiny.
+The standard library functions are only called explicitly, so they
+can be avoided if they are not needed.
+Most can be written in C, and except for the operating system detil they conceal,
+are themselves portable.
+
+(K&W, 1988)
+
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
