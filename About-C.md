@@ -124,6 +124,15 @@ language for a wide variety of programming applications.
 ```
 
 ```
+A Talk About How I Program in C
+
 ... C is the greatest language, for all the reasons other people hate it.
+
+
+In the beginning you always want *results*.
+In the end all you want is *control*.
+
+(Steenberg, 2016)
+```
 
 
