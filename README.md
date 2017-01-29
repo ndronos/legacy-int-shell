@@ -691,6 +691,22 @@ C   Summary of Changes                  259
 
 ```
 
+```
+    How I Program in C
+    ------------------------------------------
+                                     Steenberg
+                                          2016
+
+    ------------------------------------------
+    Eskil Steenberg            @eskilsteenberg
+    http://quelsolaar.com          @quelsolaar
+    Seattle talk
+    02:11:32
+    2016-11-21
+    https://youtube.com/watch?v=443UNeGrFoM
+
+```
+
 
 06  C on Unix
 ---
