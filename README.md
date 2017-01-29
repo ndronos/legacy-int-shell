@@ -666,6 +666,22 @@ C   Summary of Changes                  259
 
 ```
 
+```
+    Learn C as Your First Programming Language
+    ------------------------------------------
+                                        Igneus
+                                          2015
+
+    ------------------------------------------
+    Igneus Technologies
+    07:10:08
+    2015
+    https://udemy.com/learn-c-programming-from-scratch-build-20-terminal-apps/
+    Learn C Programming from Scratch - Build 20 Terminal App
+    Learn C as Your First Programming Language
+
+```
+
 
 06  C on Unix
 ---
