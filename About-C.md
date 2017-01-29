@@ -123,3 +123,7 @@ language for a wide variety of programming applications.
 (K&W, 1988)
 ```
 
+```
+... C is the greatest language, for all the reasons other people hate it.
+
+
