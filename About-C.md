@@ -3,8 +3,10 @@ About C
 
 
 ```
-Throw out your old ideas about C and get to know a programming language that has substantially outgrown its origins.
-... up-to-date techniques missing from otherC tutorials, whether you're new to the language or just getting reacquainted.
+Throw out your old ideas about C and get to know a programming language
+that has substantially outgrown its origins.
+... up-to-date techniques missing from otherC tutorials,
+whether you're new to the language or just getting reacquainted.
 
 C isn't just the foundation of modern programming languages; it *is* a modern language,
 ideal for writing efficient, state-of-the-art applications.
@@ -15,7 +17,6 @@ and learn the tools you need to work with this evolved and aggressively simple l
 No matter what programming language you currently favor, you'll quickly see that 21st century C rocks.
 
 (Klemens, 2015)
-
 ```
 
 ```
@@ -26,14 +27,12 @@ as the language of the UNIX operating system.
 C is not a big language, and it is not well served by a big book.
 
 (K&R, 1988)
-
 ```
 
 ```
 C wears well as one's experience with it grows.
 
 (K&R, 1988)
-
 ```
 
 ```
@@ -51,7 +50,6 @@ It is easy to learn, and
 it wears well as one's experience with it grows.
 
 (K&R, 1988)
-
 ```
 
 ```
@@ -64,7 +62,6 @@ writing compilers and operating systems, it has been used equally well
 to write major programs in many different domains.
 
 (K&R, 1988)
-
 ```
 
 ```
@@ -75,8 +72,7 @@ namely characters, numbers, and adresses. These may be combined and moved about 
 the arithmetic and logical operators implementedby real machines.
 
 (K&R, 1998)
-
-````
+```
 
 ```
 Although the absence of some... features may seem like a grave deficiency...
@@ -85,9 +81,7 @@ Since C is relatively small, it can be described in a small space, and learned q
 A programmer can reasonably expect to know and understand and indeed regularly use the
 entire language.
 
-
-(K&R, 1998)
-
+(K&R, 1988)
 ```
 
 ```
@@ -100,7 +94,6 @@ Most can be written in C, and except for the operating system detil they conceal
 are themselves portable.
 
 (K&W, 1988)
-
 ```
 
 ```
@@ -112,7 +105,6 @@ The standard makes portability issues explicit, and prescribes
 a set of constants that characterize the machine on which the program is run.
 
 (K&W, 1988)
-
 ```
 
 ```
@@ -121,7 +113,6 @@ programmers know what are they doing;
 it only requires that they state their intentions explicitly.
 
 (K&W, 1988)
-
 ```
 
 ```
@@ -130,6 +121,5 @@ Nonetheless, C has proven to be an extremely effective and expressive
 language for a wide variety of programming applications.
 
 (K&W, 1988)
-
 ```
 
