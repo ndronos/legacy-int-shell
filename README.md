@@ -672,6 +672,15 @@ C   Summary of Changes                  259
                                         Igneus
                                           2015
 
+1   Before we begin
+2   Exercise file usage
+3   Basic theory while writing code
+4   Operations and Decisions
+5   Loops and functions
+6   Coding is fun
+7   Advance C programming
+8   Fun to code applications
+
     ------------------------------------------
     Igneus Technologies
     07:10:08
