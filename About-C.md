@@ -124,3 +124,12 @@ it only requires that they state their intentions explicitly.
 
 ```
 
+```
+C, like  any other language, has its blemishes...
+Nonetheless, C has proven to be an extremely effective and expressive
+language for a wide variety of programming applications.
+
+(K&W, 1988)
+
+```
+
