@@ -135,4 +135,18 @@ In the end all you want is *control*.
 (Steenberg, 2016)
 ```
 
+```
+... a talk about how I program and my style of programming.
+This talk is about C programming... kind of advanced C... meant for... who don't program in C.
+
+... programmers from other language probably know superficialy C...
+work like all the other languages, except it doesn't have a bunch of stuff
+and therefore it's harder and it's evil.
+
+...they don't know how to make something in C. How to build a real application.
+That's what I'm going to be talking about.
+
+(Steenberg, 2016)
+```
+
 
