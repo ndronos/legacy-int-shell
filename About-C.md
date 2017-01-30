@@ -169,6 +169,36 @@ but try to do something different.
 In the beginning you always want *results*.
 In the end all you want is *control*.
 
+True for almost anything you do.
+
+I just want this VS. What can I make today?
+
+... eventually you want to tinkering with everything.
+... eventually you ask...
+why it doesn't have that feature you think you need,
+why it doesn't everything I want.
+
+So, you start out
+NOT wanting all those features
+and in the end complain that isn't enough features.
+
+And therefore you should know from the beginning...
+that there is a bunch of complexity in this,
+but I going to want that complexity
+... not be afraid... not complain about
+
+... this has reasons and I going to embrace that.
+
+In an environment,
+I just want one thing! Why can't this environment make me this thing?
+VS.
+What do I have in this environment? What can this environment provide me.
+If you allow this enviroment show what you can do, find interesting tools...
+you can make this way more awesome,
+than just make that and don't care how it is made.
+
+Key to good programmer:
+want to learn how to do things.
 
 (Steenberg, 2016)
 ```
