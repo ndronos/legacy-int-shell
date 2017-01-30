@@ -132,7 +132,7 @@ A Talk About How I Program in C
 In the beginning you always want *results*.
 In the end all you want is *control*.
 
-(Steenberg, 2016)
+(Steenberg, 2016) #1
 ```
 
 ```
@@ -146,7 +146,7 @@ and therefore it's harder and it's evil.
 ...they don't know how to make something in C. How to build a real application.
 That's what I'm going to be talking about.
 
-(Steenberg, 2016)
+(Steenberg, 2016) #1
 ```
 
 ```
@@ -162,7 +162,7 @@ That's why people
 don't try to do something that is better than C,
 but try to do something different.
 
-(Steenberg, 2016)
+(Steenberg, 2016) #2
 ```
 
 ```
@@ -200,7 +200,7 @@ than just make that and don't care how it is made.
 Key to good programmer:
 want to learn how to do things.
 
-(Steenberg, 2016)
+(Steenberg, 2016) #2
 ```
 
 ```
@@ -211,3 +211,5 @@ the rest of the world spends all their time trying to avoid garbage collection.
  
 (Steenberg, 2016) #3
 ```
+
+
