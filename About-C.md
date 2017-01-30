@@ -203,4 +203,11 @@ want to learn how to do things.
 (Steenberg, 2016)
 ```
 
+```
 
+I spend 20min a year looking for memory leaks,
+the rest of the world spends all their time trying to avoid garbage collection.
+
+ 
+(Steenberg, 2016) #3
+```
