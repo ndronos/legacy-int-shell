@@ -705,6 +705,10 @@ C   Summary of Changes                  259
     2016-11-21
     https://youtube.com/watch?v=443UNeGrFoM
     Own games LOVE and EXO. All C, own tools.
+    https://twitch.tv/quel_solaar
+    http://gamepipeline.org
+    http://unravel.org
+
 ```
 
 
