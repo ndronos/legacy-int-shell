@@ -149,4 +149,28 @@ That's what I'm going to be talking about.
 (Steenberg, 2016)
 ```
 
+```
+... C is the greatest language,
+... not a perfect language.
+
+... the reason why that it is a language that is 40+ years old and still have been beaten
+because people who design languages...
+... assumptions ... trying to solve the wrong problem.
+
+It is not obvious that C does things right.
+That's why people
+don't try to do something that is better than C,
+but try to do something different.
+
+(Steenberg, 2016)
+```
+
+```
+In the beginning you always want *results*.
+In the end all you want is *control*.
+
+
+(Steenberg, 2016)
+```
+
 
